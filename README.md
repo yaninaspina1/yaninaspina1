@@ -1,7 +1,5 @@
 ## Hola, soy Yanina Spina 👋
 
-<!--
-**yaninaspina1/yaninaspina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -30,6 +28,8 @@ Me especializo en la **automatización de flujos de datos** y en la creación de
 - **Big Data**: GCP, BigQuery, Data Lakes  
 - **Automatización**: Apache Airflow, Python, Pandas  
 - **Aplicaciones Web**: Streamlit
+<!--
+**yaninaspina1/yaninaspina1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
