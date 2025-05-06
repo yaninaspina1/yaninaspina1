@@ -1,8 +1,4 @@
-## Hola, soy Yanina Spina 👋
-
-
-
-
+## 👋 ¡Hola, soy Yanina Spina!
 
 Soy **Data Scientist** y **Data Engineer Jr.** con experiencia en análisis de datos, construcción de pipelines ETL y desarrollo de modelos de Machine Learning.  
 Me especializo en la **automatización de flujos de datos** y en la creación de soluciones escalables usando **Python**, **Google Cloud** y **Airflow**.
@@ -29,14 +25,16 @@ Me especializo en la **automatización de flujos de datos** y en la creación de
 - **Automatización**: Apache Airflow, Python, Pandas  
 - **Aplicaciones Web**: Streamlit
 
-
 ---
 
 ### 📫 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tu_usuario_aqui)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/yanina-spina-543853279)  
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&style=flat-square)](https://github.com/yaninaspina1)  
 ✉️ yanina_05_19@hotmail.com
+
+---
+
 
 ---
 <!--
